@@ -20,11 +20,11 @@
 			<artifactId>azure-cosmos</artifactId>
 			<version>4.49.0</version>
 		</dependency>
-		<!-- JUnit for testing -->
+		<!-- JUnit 5 -->
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
 			<artifactId>junit-jupiter</artifactId>
-			<version>5.9.3</version>
+			<version>5.10.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
